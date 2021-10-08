@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @bruna41
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-bruna41/bruna41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   <h3>Olá, mundo!</h3>
+   Quero me tornar Desenvolvedora web, me interesso, especialmente, por web design.<br>
+   Atualmente, estou fazendo cursos de linguagens de programação. Terminando um em Java (Centro Paula Souza), um de JavaScript (Udemy) e vou começar um integral de Pessoa Desenvolvedora Java (Generation). Tenho noções de como programar em Java, JavaScript, HTML, CSS. Nenhum projeto, no momento.<hr>
+   <h5>Contato:</h5>
+   E-mail: bruna41bergami@gmail.com<br>
+   Tel.celular: (11) 96767-0666<br>
+   Linkedln: www.linkedin.com/in/bruna-bergami-636252191<br>
+   Medium: bruna41bergami
