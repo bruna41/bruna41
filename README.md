@@ -4,5 +4,4 @@
    <h5>Contato:</h5>
    E-mail: bruna41bergami@gmail.com<br>
    Tel.celular: (11) 96767-0666<br>
-   Linkedln: www.linkedin.com/in/bruna-bergami-636252191<br>
-   Medium: bruna41bergami
+   Linkedln: www.linkedin.com/in/bruna-bergami
