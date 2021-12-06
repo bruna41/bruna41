@@ -1,4 +1,4 @@
-.><p>
+<p>
   <a>
     <h1 align="left">Olá, mundo! <a href="#"><img src = "https://c.tenor.com/Uq_-tDUQlJkAAAAi/hot-beverage-joypixels.gif" width = 75px></a> </h1>
       <h4>"Ver cores nas cinzas, e a vida reinventar"</h4>
