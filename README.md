@@ -1,8 +1,6 @@
 <p>
-  <a>
     <h1 align="left">Hello, word!<img src = "https://c.tenor.com/Uq_-tDUQlJkAAAAi/hot-beverage-joypixels.gif" width = 5%></h1>
       <h4>"Ver cores nas cinzas, e a vida reinventar"</h4>
-  </a>
 </p>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=callbackcat777&label=Profile%20views&color=0e75b6&style=flat" alt="callbackcat777" /> </p>
   <p align="center"><img height="300px" src="https://c.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif"></p>
@@ -21,9 +19,6 @@
 <br>
 <br>
 <p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/bruna-bergami/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/bruna-bergami/">
-    </a>
+<a href="https://www.linkedin.com/in/bruna-bergami/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin bruna" height="30" width="40" /></a>
+<a href="https://bruna41.github.io/Vitrine-Bruna/" target="_blank"><img align="center" src="https://cdn.pixabay.com/photo/2014/04/03/10/22/butterfly-310238_960_720.png" alt="site portifólio" height="40" width="40"/></a>
 </p>
-<p align="center">
